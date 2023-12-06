@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Muhammad Omar</h1>
-<h3 align="left">A Software Developer with a passion for frontend developer and mobile cross platform</h3>
+<h3 align="left">A Software Developer with a passion for frontend development and mobile cross-platform technologies</h3>
 
 - 🔭 I’m recently Graduated from **ITI**
 
