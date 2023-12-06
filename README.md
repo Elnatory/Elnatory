@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Muhammad.Omar.Elnatory@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/elnatory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elnatory" height="30" width="40" /></a>
 <a href="https://fb.com/elnatory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elnatory" height="30" width="40" /></a>
