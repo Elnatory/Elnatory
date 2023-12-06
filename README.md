@@ -1,2 +1,1 @@
-# Elnatory
-Hi 👋, I'm Muhammad Omar
+Hi 👋, I'm Muhammad Omar Elnatory
