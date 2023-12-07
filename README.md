@@ -15,7 +15,7 @@
 
 ## 🛠 Languages and Tools i interested in :
 <br>
-<p align="center">
+<p align="left">
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" title="GitHub" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://reactjs.org/"  title="React" target="_blank"> <img src="https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/> </a>
