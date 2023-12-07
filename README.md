@@ -19,6 +19,7 @@
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" title="GitHub" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://reactjs.org/"  title="React" target="_blank"> <img src="https://img.shields.io/badge/react-61adafb.svg?style=for-the-badge&logo=react&logoColor=white&color=61dafb" alt="React"/> </a>
+<a href="https://angular.io/"  title="Angular" target="_blank"> <img src="https://img.shields.io/badge/angular-dd0031.svg?style=for-the-badge&logo=angular&logoColor=white&color=dd0031" alt="Angular"/> </a>
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 </p>
 
