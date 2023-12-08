@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Muhammad Omar</h1>
 <div style="color: white;">
-    <h1 align="left">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
+    <h1 align="left" style="position: relative;">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" style="position: absolute; top: 0; left: 0; opacity: 0;" />
+        Hi there! 👋🏼 I'm Muhammad Omar
     </h1>
 </div>
+
 
 
 
