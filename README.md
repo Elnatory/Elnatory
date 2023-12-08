@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm Muhammad Omar</h1>
-<h1 align="left" style="color: white;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
-</h1>
+<div style="color: white;">
+    <h1 align="left">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
+    </h1>
+</div>
+
 
 
 <h3 align="left">A Software Developer with a passion for frontend development and mobile cross-platform technologies</h3>
