@@ -2,7 +2,7 @@
 <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
 </h1>
-<h1 align="center">
+<h1 align="left">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&random=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Muhammad+Omar" alt="Typing SVG" />
 </h1>
 
