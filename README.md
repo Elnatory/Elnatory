@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=30&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
 </h1>
 
+
 <h3 align="left">A Software Developer with a passion for frontend development and mobile cross-platform technologies</h3>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
