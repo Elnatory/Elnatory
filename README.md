@@ -1,10 +1,10 @@
 <!-- <h1 align="left">Hi 👋, I'm Muhammad Omar</h1> -->
-<!-- <h1 align="left">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=40&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
-</h1> -->
-<h1 align="left">
+<!--<h1 align="left">
       <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=40&duration=4000&pause=0&color=F7F7F7&left=true&vCenter=true&random=true&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Muhammad+Omar" alt="Typing Animation" />
 
+</h1> -->
+<h1 align="left">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=SFProDisplay&size=40&left=true&vCenter&width=500&height=70&duration=4000&lines=Hi+there!+👋🏼;+I'm+Muhammad+Omar" alt="Typing Animation" />
 </h1>
 
 
